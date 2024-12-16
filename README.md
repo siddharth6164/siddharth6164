@@ -13,7 +13,7 @@
 - Quick learner with a strong problem-solving mindset
 - Data Structures and Algorithms (DSA)
 - Java Spring || Python Djang|| Restful API
--  HTML || CSS || JavaScript || React || Bootstrap
+-  HTML || CSS || JavaScript || ReactJS || Bootstrap
 -  CI/CD
 - 📫 How to reach me *siddhu33singh@gmail.com*
 
