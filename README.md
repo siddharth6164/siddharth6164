@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth6164&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth61164" /> </p>
-<img align="right" alt="coding on" width="500px" height="400" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif">
+<img align="right" alt="coding on" width="300px" height="200" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif">
 
 - Web Developer 
 - Enthusiastic and highly motivated frontend Developer <br>with a solid understanding of modern frontend technologies.
