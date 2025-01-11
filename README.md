@@ -20,3 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/siddharth-singh-45a0731bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-singh-45a0731bb" height="30" width="40" /></a>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=siddharth6164&theme=transparent&hide_border=false) &nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth6164&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp; 
