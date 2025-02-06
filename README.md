@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
+<h1 align="center">Hi 👋, I am Siddharth Singh</h1>
 <h2 align="center">A passionate frontend developer from India</h2>
 
 
@@ -14,7 +14,6 @@
 - Data Structures and Algorithms (DSA)
 - Java Spring || Python Djang|| Restful API
 -  HTML || CSS || JavaScript || ReactJS || Bootstrap
--  CI/CD
 - 📫 How to reach me *siddhu33singh@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
